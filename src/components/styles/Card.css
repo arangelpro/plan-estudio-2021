@@ -1,0 +1,29 @@
+.card {
+	margin: 5px 0;
+	font-size: 20px;
+}
+.card h2 {
+	margin: 0;
+	background-color: green;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	border-top-left-radius: 0.25rem;
+	border-top-right-radius: 0.25rem;
+	padding: 5px;
+	font-size: 1em;
+}
+.card small {
+	text-align: right;
+	margin-right: 15px;
+	font-size: 0.7em;
+}
+.card ul {
+	margin: 15px;
+}
+
+.card ul li {
+	font-size: 0.9em;
+	margin-bottom: 10px;
+	border-bottom: 1px solid gainsboro;
+}

@@ -1,0 +1,50 @@
+.home-banner {
+	display: flex;
+	flex-direction: column;
+	font-size: 20px;
+	padding: 5%;
+	background-image: url("../../assets/banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	object-fit: cover;
+	position: relative;
+	color: white;
+}
+.home-banner h1 {
+	text-align: center;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+.home-objective,
+.home-description {
+	font-size: 1em;
+	margin-top: 15px;
+}
+.home-objective h2,
+.home-description h2 {
+	font-size: 0.9em;
+}
+.home-objective ul {
+	list-style: none;
+}
+.home-objective ul,
+.home-description p {
+	padding-left: 5%;
+}
+.home-objective ul li,
+.home-description p {
+	font-size: 0.8em;
+}
+.home-description p {
+	text-align: justify;
+}
+
+@media screen and (min-width: 768px) {
+	.home-banner {
+		font-size: 30px;
+	}
+	.home-banner h1 {
+		font-size: 40px;
+	}
+}
