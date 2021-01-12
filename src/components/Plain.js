@@ -225,7 +225,7 @@ const Plain = () => {
 			<div className="container">
 				<div className="row">
 					{contents.map((content) => (
-						<div key={content.month} className="col-12 col-md-4 col-lg-3">
+						<div key={content.month} className="col-12 col-md-4">
 							<Card key={content.month} {...content} />
 						</div>
 					))}
