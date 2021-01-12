@@ -39,7 +39,7 @@ const plainContent = [
 const contents = [
 	{
 		month: "enero",
-		duration: 32,
+		duration: 35,
 		content: [
 			"Curso de Introducción a SEO: Posicionamiento en Buscadores",
 			"Curso de Google Analytics",
@@ -51,11 +51,13 @@ const contents = [
 			"Curso de Estrategia y Planeación de Contenidos para SEO",
 			"Curso de Fundamentos de Google Search Console para SEO",
 			"Curso de Expresiones Regulares",
+			"Taller de Inglés para Principiantes",
+			"Curso de Inglés Básico: Fundamentos",
 		],
 	},
 	{
 		month: "febrero",
-		duration: 49,
+		duration: 51,
 		content: [
 			"Curso de Redux por Bedu",
 			"Curso de Unit Testing con Jest en React",
@@ -68,11 +70,13 @@ const contents = [
 			"Curso de Introducción a React Native",
 			"Curso de React.js 2017",
 			"Curso de Redux 2018",
+			"Curso de Inglés Básico: Gramática",
+			"Curso de Inglés Básico: Conversación",
 		],
 	},
 	{
 		month: "marzo",
-		duration: 31,
+		duration: 34,
 		content: [
 			"Curso de Introducción a la Terminal y Línea de Comandos",
 			"Curso de Node.js",
@@ -81,11 +85,12 @@ const contents = [
 			"Curso de Programación Funcional en JavaScript por Bedu",
 			"Curso de Express.js",
 			"Curso de JavaScript Full Stack con Sails.js",
+			"Curso de Inglés Básico: Pronunciación",
 		],
 	},
 	{
 		month: "abril",
-		duration: 42,
+		duration: 45,
 		content: [
 			"Curso Avanzado de Node.js",
 			"Curso de End to End Testing con Cypress",
@@ -94,11 +99,14 @@ const contents = [
 			"Curso de MEAN 2017",
 			"Curso de JavaScript Testing con Jest 2019",
 			"Curso Básico de Node.js 2018",
+			"Curso de Inglés Práctico: Fundamentos",
+			"Curso de Inglés Práctico: Gramática",
+			"Curso de Inglés Práctico: Conversación",
 		],
 	},
 	{
 		month: "mayo",
-		duration: 34,
+		duration: 36,
 		content: [
 			"Fundamentos de Ingeniería de Software",
 			"Fundamentos de Bases de Datos",
@@ -108,11 +116,12 @@ const contents = [
 			"Curso de Introducción a Elasticsearch",
 			"Curso Práctico de SQL",
 			"Curso de Optimización de Bases de Datos en SQL Server",
+			"Curso de Inglés Práctico: Pronunciación",
 		],
 	},
 	{
 		month: "junio",
-		duration: 31,
+		duration: 34,
 		content: [
 			"Fundamentos de Google Cloud Platform",
 			"Curso de Bases de Datos en AWS",
@@ -123,11 +132,12 @@ const contents = [
 			"Curso Introductorio de Spark",
 			"Curso de AWS Redshift para Manejo de Big Data",
 			"Curso de Hadoop",
+			"Curso de Inglés Intermedio: Gramática",
 		],
 	},
 	{
 		month: "julio",
-		duration: 39,
+		duration: 42,
 		content: [
 			"Curso de Administración de Servidores Linux",
 			"Fundamentos de Google Cloud Platform",
@@ -142,11 +152,13 @@ const contents = [
 			"Curso de Travis CI",
 			"Curso de Swarm",
 			"Curso de Docker",
+			"Curso de Inglés Intermedio: Conversación",
+			"Curso de Inglés Intermedio: Pronunciación (Parte I)",
 		],
 	},
 	{
 		month: "agosto",
-		duration: 39,
+		duration: 42,
 		content: [
 			"Curso de Kubernetes",
 			"Curso de Google Kubernetes Engine",
@@ -157,11 +169,13 @@ const contents = [
 			"Curso de Deploy con Amazon Web Services 2015",
 			"Curso de Heroku 2015",
 			"Curso de Rackspace 2015",
+			"Curso de Inglés Intermedio: Pronunciación (Parte II)",
+			"Curso de Inglés Intermedio para el Trabajo",
 		],
 	},
 	{
 		month: "septiembre",
-		duration: 43,
+		duration: 46,
 		content: [
 			"Curso de Azure 2015",
 			"Fundamentos de Docker 2017",
@@ -169,11 +183,13 @@ const contents = [
 			"Curso de Azure PaaS 2018",
 			"Curso de Arquitectura de Aplicaciones con Docker 2018",
 			"Curso de DigitalOcean 2017",
+			"Curso de Inglés Técnico para Profesionales",
+			"Curso de Inglés para Entrevistas de Trabajo",
 		],
 	},
 	{
 		month: "octubre",
-		duration: 46,
+		duration: 49,
 		content: [
 			"Curso de Java SE Orientado a Objetos",
 			"Curso Básico de Kotlin",
@@ -186,16 +202,19 @@ const contents = [
 			"Curso de Desarrollo de Aplicaciones con Huawei",
 			"Curso de Clean Architecture en Android",
 			"Curso de Flutter",
+			"Curso de Inglés para Developers",
 		],
 	},
 	{
 		month: "noviembre",
-		duration: 47,
+		duration: 50,
 		content: [
 			"Curso Avanzado de Flutter",
 			"Curso Definitivo de Android 2016",
 			"Curso de Kotlin para Android 2017",
 			"Curso Profesional de Firebase para Android 2017",
+			"Curso de Escritura en Inglés",
+			"Curso de Inglés para Viajes",
 		],
 	},
 ];
